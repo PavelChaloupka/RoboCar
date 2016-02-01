@@ -1,4 +1,4 @@
-RoboCar project is to create a small car driven by wirelles.
+RoboCar project is to create a small smart car driven by wirelles.
 
 This project is based on the Arduino platform and its aim is to encourage more people to develop the device. The goal is to use only commercially available components and show what one can build.
 
