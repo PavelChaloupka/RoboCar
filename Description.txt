@@ -6,4 +6,18 @@ My project include
 4)4 Channel Wireless RF Remote Control Transmitter Receiver Module
 5)gear vehicles
 
-
+Pins
+Arduino Nano x other modules
+0
+1
+2
+3   H bridge (left wheel front)
+4   Receiver module output C (Right)
+5   H bridge (left wheel back)
+6   H bridge (right wheel front)
+7   Ultrasonic mobile Echo 
+8   Ultrasonic mobile triger
+9   H bridge (right wheel back)
+10  Receiver module output C (back)
+11  Receiver module output A (Front)
+12  Receiver module output B (left)
